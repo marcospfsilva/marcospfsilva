@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcospfsilva
-- 👀 I’m interested in learnig with community
-- 🌱 I’m currently learning .NET and C#
+- 👀 I’m interested in learning and sharing with the community!
+- 🌱 I’m currently learning .NET and C#.
 
 <!---
 marcospfsilva/marcospfsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
