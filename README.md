@@ -3,7 +3,7 @@
 - 👀 Estou interessado em aprender muito e contribuir com a comunidade de programadores.
 - 🌱 Estou estudando Python e JavaScript.
 
-<div align="center">
+<div>
   <a href="https://github.com/marcospfsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospfsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospfsilva&layout=compact&langs_count=7&theme=tokyonight"/>
