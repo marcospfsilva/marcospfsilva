@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcos Paulo
 
 - 👀 Estou interessado em aprender muito e contribuir com a comunidade de programadores.
-- 🌱 Estou estudando Python e JavaScript.
+- 🌱 Estou estudando Java, Python e JavaScript.
 
 <div>
   <a href="https://github.com/marcospfsilva">
